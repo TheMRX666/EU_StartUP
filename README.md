@@ -1,4 +1,2 @@
-# EU_StartUP
-
-
-Command: Martynenko Ruslan, Rudenko Alexander, Fedoryshin Falentin
+#Python Telegram BOT
+#Command: Martynenko Ruslan, Rudenko Alexander, Fedoryshin Falentin
